@@ -1,0 +1,243 @@
+body {
+  background-color: #005f73;
+  color: white;
+}
+
+.img {
+  height: 60px;
+  left: 35px;
+  top: -14px;
+  width: 100px;
+}
+
+.hardername {
+  width: 198.7px;
+  height: 41.65px;
+  left: 1192px;
+  top: 31px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.UserN {
+  position: absolute;
+  color: #001219;
+  margin-top: 10px;
+  margin-left: 120px;
+  font-size: 20px;
+}
+
+.svg {
+  position: absolute;
+  color: #001219;
+  height: 35px;
+  width: 35px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.navContainer {
+  align-items: center;
+  background-color: #005f73;
+  box-shadow: 5px 5px 10px #0076a3;
+  height: 50px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+.cardLogin {
+  background-color: #001219;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #0076a3;
+  display: flex;
+  height: 450px;
+  justify-content: center;
+  margin-top: 100px;
+  width: 400px;
+}
+
+.cardLogin,
+h5 {
+  color: white;
+  padding: 20px;
+}
+
+.inputLogin {
+  padding: 10px;
+}
+
+.buttonLogin {
+  margin-top: 50px;
+  padding: 10px;
+}
+
+header {
+  align-items: center;
+  background-color: #001219;
+  box-shadow: 5px 5px 10px #9ea9ad;
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.link:hover {
+  font-size: 20px;
+  color: #001219;
+  margin-top: 10;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.inputSearch {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px 16px;
+
+  position: absolute;
+  width: 519px;
+  height: 45px;
+  left: 380px;
+  top: 200px;
+  background: #ffffff;
+  border: 1px solid #3d495c;
+  border-radius: 6px;
+}
+
+.btnSearch {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 32px;
+  position: absolute;
+  width: 134px;
+  height: 45px;
+  left: 926px;
+  top: 200px;
+  background: #003be5;
+  border-radius: 3px;
+  color: #ffffff;
+}
+
+.cardMusic {
+  background-color: #264653;
+  margin-top: 180px;
+  padding: 0px 0px 16px;
+  width: 290px;
+  height: 320px;
+  left: 112px;
+  top: 507px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.06), 0px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+
+.contoneirMusicCard {
+  display: inline-flex;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.imgCardMusic {
+  height: 150px;
+  width: 150px;
+  margin-left: 65px;
+  margin-top: 20px;
+}
+
+.linkAlbuns {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.linkAlbuns:hover {
+  color: #001219;
+}
+
+.nameAlbum {
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.artistName {
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+.resultAlbum {
+  position: absolute;
+  width: 447px;
+  height: 33px;
+  left: 18px;
+  top: 280px;
+
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 25px;
+}
+
+.imgAlbum {
+  width: 250px;
+  height: 250px;
+}
+
+.albumName {
+  width: 330px;
+  height: 36px;
+  margin-left: -17px;
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.nameArtistAlbum {
+  width: 255px;
+  height: 36px;
+  margin-top: 40px;
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 25px;
+}
+
+.containerAlbum {
+  display: flex;
+}
+
+.albumCapName {
+  margin-top: 150px;
+  margin-left: 179px;
+}
+
+.listAudio {
+  margin-top: 179px;
+  margin-left: 80px;
+}
+
+.audio {
+  padding: 20px;
+}
