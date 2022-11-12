@@ -25,7 +25,6 @@ Este repositório contem o **Projeto React TrybeTunes** que reúne o aprendizado
 
 ## Apresentação do Projeto
 
-
 ### Introdução
 
 O Projeto TrybeTunes é uma aplicação web, que busca recriar um serviço simples de streaming de música. Nesse projeto, foram utilizadas algumas tecnologias como ReactJS, React Router Dom, CSS e a API do Itunes, que permite acesso aos álbuns de cantores e bandas e reprodução de 30 segundos de cada faixa do álbum. No TrybeTunes, coloco em prática o meu aprendizado de react, que me facilita a criar páginas mais complexas com uma ótima definição de responsividade entre os componentes.
