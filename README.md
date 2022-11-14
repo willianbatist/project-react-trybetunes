@@ -3,6 +3,7 @@
 Este repositório contem o **Projeto React TrybeTunes** que reúne o aprendizado desenvolvido por _[Willian Alves Batista](https://www.linkedin.com/in/willian-alves-batista-60aa6a180/)_ enquanto estudante da [Trybe](https://www.betrybe.com/) :rocket:
 **GitHub [Trybe](https://github.com/tryber)**.
 
+
 # Projeto TrybeTunes
 ### Resultado obtido:
 ### Deploy/ github pages do Projeto: [TrybeTunes](https://willianbatist.github.io/project-react-trybetunes/)
