@@ -4,7 +4,6 @@ Este repositório contem o **Projeto React TrybeTunes** que reúne o aprendizado
 **GitHub [Trybe](https://github.com/tryber)**.
 
 # Projeto TrybeTunes
-
 ### Resultado obtido:
 ### Deploy/ github pages do Projeto: [TrybeTunes](https://willianbatist.github.io/project-react-trybetunes/)
 ![](./TrybeTunes.gif)
